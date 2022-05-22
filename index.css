@@ -1,0 +1,66 @@
+body {
+    background-color: rgb(254, 240, 222);
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+h1 {
+    text-transform: uppercase;
+}
+
+.climats_list {
+    width: 200px;
+    height: 100px;
+    background-color: rgb(252, 253, 191);
+    padding: 20px;
+    border: 5px dotted rgb(117, 117, 1);
+    margin-bottom: 30px;
+}
+
+th {
+    background-color: lightgray;
+    padding: 5px;
+}
+
+td {
+    background-color: white;
+    padding: 5px;
+}
+
+img {
+    width: 300px;
+    height: 200px;
+}
+
+.zone {
+    width: 50%;
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 2px solid black;
+    font-size: 20px;
+}
+
+.zone h3 {
+    font-size: 25px;
+}
+
+#arctic {
+    background-color: rgb(194, 242, 250);
+    border-color: rgb(2, 106, 155);
+    color: rgb(0, 52, 107);
+}
+
+#middle {
+    background-color: rgb(194, 250, 209);
+    border-color: rgb(2, 155, 58);
+    color: rgb(0, 107, 37);
+}
+
+#tropic {
+    background-color: rgb(250, 233, 194);
+    border-color: rgb(155, 101, 2);
+    color: rgb(107, 54, 0);
+}
